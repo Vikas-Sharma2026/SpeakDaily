@@ -1,0 +1,10 @@
+{
+  "name": "SpeakDaily",
+  "description": "Your two-minute English practice partner. Practise speaking on daily topics, record your voice, and receive instant AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
